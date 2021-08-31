@@ -1,7 +1,7 @@
 # C# Template 
 
 
-#### By Gabriel Ayla
+#### By Gabriel Ayala
 
 ## Technologies Used :floppy_disk:
 * _NuGet Package Manager_
@@ -14,7 +14,7 @@ _A template that follows lesson 8(MSTest Configuration Quickj Reference)_
 
 ## Setup/Installation Requirements :triangular_ruler:
 
-* _Clone github repo: https://github.com/Gabeaya/C--Template.git _
+* _Clone github repo: https://github.com/Gabeaya/C--Template.git_
 * _Navigate the directory: (cd top name directory)_
 * _Open in Vs code: code ._
 * _Navigate to the ProjectName.Tests within the terminal: cd ProjectName.Tests_
